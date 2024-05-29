@@ -47,4 +47,4 @@ npm -v
 
 ## License
 
-[MIT © Isadora A. Lima](https://github.com/isaallama/udemy-downloader-gui/blob/master/LICENSE)
+[MIT © Isadora A. Lima](https://github.com/isaallama/lista02/blob/main/LICENSE).
